@@ -7,6 +7,7 @@ Edit the file /etc/locale.gen and uncomment en_US.UTF-8 UTF-8, Run sudo locale-g
 }
 2.if kdewllet is deleting(for some reason) your logins in brave then{
 edit file ~/.kde/share/config/kwalletrc: adding to [Wallet] section just one line
++removing "kwallet-pam" is compulsory.(i dont know what it does but future me will figure it out!)
 
 Enabled=false
 }
