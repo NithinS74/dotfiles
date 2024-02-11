@@ -202,4 +202,3 @@ client.background       #ffffff
 
 #autostart
 exec_always nitrogen --restore
-exec /usr/bin/pasystray 
