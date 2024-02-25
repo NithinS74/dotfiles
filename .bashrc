@@ -144,3 +144,5 @@ source "$OSH"/oh-my-bash.sh
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
 export EDITOR="vim"
+
+eval "$(zoxide init bash)"
