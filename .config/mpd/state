@@ -2,8 +2,8 @@ sw_volume: 91
 audio_device_state:1:PipeWire Sound Server
 audio_device_state:1:my_fifo
 state: pause
-current: 78
-time: 166.720000
+current: 1
+time: 3.273000
 random: 0
 repeat: 1
 single: 0
@@ -12,111 +12,8 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Miserlou   Dick Dale.mp3
-1:Stellar (Official Lyric Video)   Ashes.mp3
-2:Worlds 2018 - League of Legends   RISE (ft. The Glitch Mob.mp3
-3:Lola Blanc - The Magic.mp3
-4:Post Malone - Circles.flac
-5:Maneskin - Beggin'.mp3
-6:DVRST - Close Eyes.flac
-7:Andrews Sisters Danny Kaye - Civilization (Bongo Bongo Bongo) 1948 [TubeRipper.com].m4a
-8:Beach House - Space Song [TubeRipper.com].m4a
-9:Camila_Cabello_Havana_Without_Young_Thug__FlRHrOzZ5G4_251.ogg
-10:Carmen Suite No. 2  II. Habanera   London Festival Orchestra.mp3
-11:Cold Feet - Fink.m4a
-12:Ed Sheeran  - ShapeofYou.mp3
-13:Eye of the Tiger   Survivor.mp3
-14:Flambant Nue.m4a
-15:Fallout 3 - Soundtrack - I Dont Want to Set the World on Fire by The Ink Spots [TubeRipper.com].m4a
-16:Frank Sinatra - Come Sweet Death.webm
-17:Fresco (GTA V)   Milkman.mp3
-18:golden_hour.m4a
-19:Good Times-Alan Jackson.mp3
-20:Gymnopédie No. 1   Erik Satie.mp3
-21:Harry Styles  - WatermelonSugar.mp3
-22:Imagine Dragons  - Thunder.mp3
-23:La Mer - Django Reinhardt Stephane Grappelli.m4a
-24:Lil Nas X - Industry Baby (Lyrics) ft. Jack Harlow [TubeRipper.com].m4a
-25:Lunar_Revel_2022_Almost_Home_v76PN00VJp4_251.ogg
-26:Madeon – The City.mp3
-27:Max Brhon - Cyberpunk NCS Release.m4a
-28:Miłość w Zakopanem   Sławomir.mp3
-29:Miserlou   Dick Dale.mp3
-30:Money Heist) - Manu Pilas.m4a
-31:Mr. Blue Sky [TubeRipper.com].m4a
-32:MUGULU_NAGE_TITLE_TRACK_GANESH_(getmp3.pro).mp3
-33:MV ｜ Jack Stauber - Buttercup.mp3
-34:NFS Most Wanted 2012 (Soundtrack) - 37. The Maccabees - Unknow [TubeRipper.com].m4a
-35:Old Town Road   Lil Nas X feat. Billy Ray Cyrus.mp3
-36:onlymp3.to - Lux Aeterna-oc3Cq89P97Y-192k-1660350101688.mp3
-37:Pork And Beef   The Coup.mp3
-38:Quicksilver - Sweet Dreams.m4a
-39:Sleep Walk.mp3
-40:Stellar (Official Lyric Video)   Ashes.mp3
-41:Waltz of the Flowers - Pyotr Ilyich Tchaikovsky.m4a
-42:Worlds 2018 - League of Legends   RISE (ft. The Glitch Mob.mp3
-43:y2mate.com - Dmitri Shostakovich  Waltz No 2.mp3
-44:Jason_Walker-Echo.mp3
-45:07 - Hush - Fired Up.flac
-46:The Beatles - Yesterday (Remastered 2015).mp3
-47:Adele - Hello (FLAC).flac
-48:Wierd Al Yankovic – White & Nerdy.mp3
-49:Mazzy Star - Look On Down From The Bridge (1).mp3
-50:Angel Beats Op Full HD w-lyrics My Soul Your Beats!.m4a
-51:Attack on Titan – Opening Theme – Feuerroter Pfeil und Bogen.m4a
-52:Attack on Titan Season 2 - Official Opening Song - Shinzou wo Sasageyo by Linked.m4a
-53:Chopin - Nocturne op.9 No.2.m4a
-54:Maneskin - Beggin'.mp3
-55:Post Malone - Circles.flac
-56:DVRST - Close Eyes.flac
-57:Code Geass Opening 1 HD.m4a
-58:COWBOY BEBOP OP  HQ.m4a
-59:Eminem - 06 - Lose Yourself.flac
-60:David Kushner - Daylight.flac
-61:Death Note OP 1 NC.m4a
-62:Ben E. King - Stand by Me.flac
-63:At Doom s Gate   Mick Gordon.mp3
-64:George Ezra - Shotgun (Lyric Video).m4a
-65:Jade Jackson - Good Time Gone.mp3
-66:Gisher Music - Major Lazer x DJ Snake feat_ MØ - Lean On .mp3
-67:06_good_4_u.m4a
-68:Grand Blue OP intro.m4a
-69:GTA V - Welcome to Los Santos Soundtrack - Intro-Theme song.m4a
-70:Natalia Lafourcade – Nunca Es Suficiente.mp3
-71:01 Take on Me.flac
-72:Rina Sawayama - Eye For an Eye.mp3
-73:JoJo's Bizarre Adventure Opening 1 Full『SONO CHI NO SADAME』.m4a
-74:JoJo's Bizarre Adventure Opening 2 Full『BLOODY STREAM』.m4a
-75:Le Festin.m4a
-76:Fools Garden - Lemon Tree.flac
-77:03 Another Love.flac
-78:Lucie - _Wolves_ by Sam Tinnesz ft_ Silverberg fni2-V1kbR8.m4a
-79:Gotye, Kimbra   Somebody That I Used To Know.flac
-80:Interworld - METAMORPHOSIS.flac
-81:Moonlight Sonata.m4a
-82:Attack on Titan Opening 6 — Final Season _ My War.m4a
-83:Near's Theme (A) - Death Note.m4a
-84:- Neon Genesis Evangelion - Opening Full 'A Cruel Angel's Thesis'.m4a
-85:Official髭男dism - Cry Baby［Official Video］.m4a
-86:One Punch Man - Official Opening - The Hero!! Set Fire to the Furious Fist.m4a
-87:One Punch Man S2 - Garou's Theme (HQ Epic Cover).m4a
-88:Opening Shigatsu wa Kimi no Uso 1 Full Lyrics HD.m4a
-89:- Chor der Deutschen Oper Berlin, Orchester der Deutschen Op.m4a
-90:Overlord – Opening Theme – Clattanoia.m4a
-91:Parasyte Opening.m4a
-92:Chamillonaire ft. Krayzie Bone – Ridin'.mp3
-93:The White Stripes   Seven Nation Army.flac
-94:Eurythmics - Sweet Dreams (Are Made of This) (Remastered).mp3
-95:Madeon - The City.flac
-96:Lola Blanc - The Magic.mp3
-97:Gold_Leaves_for_G_K_Chesterton_Michael (1).m4a
-98:The Promised Neverland OP Opening HD.m4a
-99:491243_Demo-2---The-Sizlac.mp3
-100:Sean Paul - Temperature.flac
-101:The Weeknd - Blinding Lights (Official Audio).m4a
-102:The Wind Rises Soundtrack- Joe Hisaishi - A Journey.m4a
-103:Polish Cow (Full Mistake) ( 128kbps ).mp3
-104:Uso...Fullmetal Alchemist - Brotherhood.m4a
-105:Alabama 3 - Woke Up This Morning.flac
-106:Blonde Redhead - For the Damaged Coda - 4Js-XbNj6Tk.m4a
+0:Eye of the Tiger   Survivor.mp3
+1:Grand Blue OP intro.m4a
+2:Natalia Lafourcade – Nunca Es Suficiente.mp3
+3:JoJo's Bizarre Adventure Opening 1 Full『SONO CHI NO SADAME』.m4a
 playlist_end

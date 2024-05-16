@@ -143,6 +143,8 @@ source "$OSH"/oh-my-bash.sh
 # Example aliases
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
+export LANG=en_US.UTF-8
 export EDITOR="vim"
 
 eval "$(zoxide init bash)"
+. "$HOME/.cargo/env"
