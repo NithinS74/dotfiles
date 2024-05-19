@@ -148,3 +148,5 @@ export EDITOR="vim"
 
 eval "$(zoxide init bash)"
 . "$HOME/.cargo/env"
+
+alias pf="poweroff"
