@@ -1,9 +1,9 @@
-sw_volume: 91
+sw_volume: 60
 audio_device_state:1:PipeWire Sound Server
 audio_device_state:1:my_fifo
 state: pause
-current: 0
-time: 80.354000
+current: 32
+time: 113.808000
 random: 0
 repeat: 1
 single: 0
@@ -12,8 +12,66 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Eye of the Tiger   Survivor.mp3
-1:Grand Blue OP intro.m4a
-2:Natalia Lafourcade – Nunca Es Suficiente.mp3
-3:JoJo's Bizarre Adventure Opening 1 Full『SONO CHI NO SADAME』.m4a
+0:Camila_Cabello_Havana_Without_Young_Thug__FlRHrOzZ5G4_251.ogg
+1:Eye of the Tiger   Survivor.mp3
+2:Flambant Nue.m4a
+3:Frank Sinatra - Come Sweet Death.webm
+4:Fresco (GTA V)   Milkman.mp3
+5:Gymnopédie No. 1   Erik Satie.mp3
+6:Harry Styles  - WatermelonSugar.mp3
+7:Imagine Dragons  - Thunder.mp3
+8:La Mer - Django Reinhardt Stephane Grappelli.m4a
+9:La Mer - Django Reinhardt Stephane Grappelli.m4a
+10:Lil Nas X - Industry Baby (Lyrics) ft. Jack Harlow [TubeRipper.com].m4a
+11:Lunar_Revel_2022_Almost_Home_v76PN00VJp4_251.ogg
+12:Madeon – The City.mp3
+13:Max Brhon - Cyberpunk NCS Release.m4a
+14:Miłość w Zakopanem   Sławomir.mp3
+15:Miserlou   Dick Dale.mp3
+16:Mr. Blue Sky [TubeRipper.com].m4a
+17:MUGULU_NAGE_TITLE_TRACK_GANESH_(getmp3.pro).mp3
+18:MV ｜ Jack Stauber - Buttercup.mp3
+19:NFS Most Wanted 2012 (Soundtrack) - 37. The Maccabees - Unknow [TubeRipper.com].m4a
+20:Old Town Road   Lil Nas X feat. Billy Ray Cyrus.mp3
+21:onlymp3.to - Lux Aeterna-oc3Cq89P97Y-192k-1660350101688.mp3
+22:Pork And Beef   The Coup.mp3
+23:Quicksilver - Sweet Dreams.m4a
+24:Stellar (Official Lyric Video)   Ashes.mp3
+25:Waltz of the Flowers - Pyotr Ilyich Tchaikovsky.m4a
+26:Worlds 2018 - League of Legends   RISE (ft. The Glitch Mob.mp3
+27:07 - Hush - Fired Up.flac
+28:The Beatles - Yesterday (Remastered 2015).mp3
+29:Adele - Hello (FLAC).flac
+30:Wierd Al Yankovic – White & Nerdy.mp3
+31:1v1 - Ain-'t Seen Nothing.flac
+32:Maneskin - Beggin'.mp3
+33:Post Malone - Circles.flac
+34:DVRST - Close Eyes.flac
+35:Lelouch of the Resurrection.opus
+36:Eminem - 06 - Lose Yourself.flac
+37:David Kushner - Daylight.flac
+38:Light no Theme.opus
+39:At Doom s Gate   Mick Gordon.mp3
+40:Joy Crookes - Feet Don-'t Fail Me Now.flac
+41:George Ezra - Shotgun (Lyric Video).m4a
+42:Gift ～あなたはマドンナ～ (資生堂｢エリクシール....opus
+43:Jade Jackson - Good Time Gone.mp3
+44:Gisher Music - Major Lazer x DJ Snake feat_ MØ - Lean On .mp3
+45:06_good_4_u.m4a
+46:GTA V - Welcome to Los Santos Soundtrack - Intro-Theme song.m4a
+47:Half Life 2 OST  ｜  CP Violation.opus
+48:Rina Sawayama - Eye For an Eye.mp3
+49:Fools Garden - Lemon Tree.flac
+50:John Newman - Love Me Again.flac
+51:Lucie - _Wolves_ by Sam Tinnesz ft_ Silverberg fni2-V1kbR8.m4a
+52:Chamillonaire ft. Krayzie Bone – Ridin'.mp3
+53:Imagine Dragons - I’m So Sorry.flac
+54:Post Malone - Sunflower.flac
+55:E.T..opus
+56:Macklemore & Ryan Lewis - Thrift Shop (feat. Wanz).flac
+57:Lola Blanc - The Magic.mp3
+58:Sean Paul - Temperature.flac
+59:Polish Cow (Full Mistake) ( 128kbps ).mp3
+60:Alabama 3 - Woke Up This Morning.flac
+61:Your Lie in April OP⧸Opening Theme - Hikaru Nara.opus
 playlist_end
