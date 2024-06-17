@@ -7,32 +7,38 @@
     "height": 5,
 
     "modules-left": [
-        "custom/launcher",
         "sway/workspaces",
         "sway/mode",
     ],
  
     "modules-center": [
+    "custom/launcher",
     ],
 
     "modules-right": [
-        "network",
-        "idle_inhibitor",
-        "memory",
-        "cpu",
-        "pulseaudio",
-        "custom/keyboard-layout",
-        "battery",
-        //"custom/PBPbattery",
-        "backlight#icon",
-        "backlight#value",
-        "clock",
-        "tray",
-        //"custom/weather",
-        "custom/power",
+//     "network",
+//     "idle_inhibitor",
+//     "memory",
+//     "cpu",
+//     "custom/keyboard-layout",
+//     "custom/PBPbattery",
+//     "backlight#icon",
+//     "custom/weather",
+      "clock",
+      "pulseaudio",
+      "battery",
+      "backlight#value",
+      "tray",
+      "custom/power",
     ],
 
     // Modules
+
+    "custom/launcher":{
+    "format":"Nithin",
+    "on-click":"exec wofi -c ~/.config/wofi/config -I",
+    "tooltip":false
+    },
 
     "idle_inhibitor": {
         "format": "{icon} ",
@@ -49,7 +55,7 @@
             "critical": 15
         },
         "format": "{capacity}% {icon}",
-        "format-charging": "{capacity}% ",
+        "format-charging": "{capacity}% 󰂄",
         "format-plugged": "{capacity}% ",
         // "format-good": "", // An empty format will hide the module
         // "format-full": "",
@@ -63,8 +69,8 @@
 
     "clock": {
         "interval": 10,
-        "format-alt": " {:%e %b %Y}", // Icon: calendar-alt
-        "format": "{:%H:%M}",
+//      "format-alt": "{:%A, %B %d, %Y (%R)}",
+        "format": "{:%B %d %A %Y | %H:%M |}",
         "tooltip-format": "{:%e %B %Y}"
     },
 
@@ -131,10 +137,10 @@
         "format": "  {icon}  ",
         //"format":"{icon}",
         "format-icons": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
+            "1": " ",
+            "2": " ",
+            "3": " ",
+            "4": " ",
         }
     },
 
@@ -142,18 +148,18 @@
         "scroll-step": 1, // %, can be a float
         "format": "{volume}% {icon}",
         "format-bluetooth": "{volume}% {icon}  {format_source}",
-        "format-bluetooth-muted": " {icon}  {format_source}",
-        "format-muted": "婢 {format_source}",
+        "format-bluetooth-muted": "󰗿 {icon}  {format_source}",
+        "format-muted": "󰟎 {format_source}",
         "format-source": "{volume}% ",
-        "format-source-muted": "",
+        "format-source-muted": " ",
         "format-icons": {
-            "headphone": "",
-            "hands-free": "וֹ",
-            "headset": "  ",
-            "phone": "",
-            "portable": "",
-            "car": "",
-            "default": [""]
+            "headphone": " ",
+            "hands-free": "󰥰 ",
+            "headset": " ",
+            "phone": " ",
+            "portable": " ",
+            "car": " ",
+            "default": [" "]
         },
         "on-click": "pavucontrol",
         "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +2%",
@@ -169,19 +175,13 @@
     },
 
     "tray": {
-        "icon-size": 10,
+        "icon-size": 18,
         "spacing":5,
      },
 
-    "backlight#icon": {
-        "format": "{icon}",
-        "format-icons": [""],
-        "on-scroll-down": "brightnessctl -c backlight set 1%-",
-        "on-scroll-up": "brightnessctl -c backlight set +1%"
-    },
-
     "backlight#value" :{
-         "format": "{percent}%",
+        "format-icons": [" "],
+         "format": "{icon}{percent}%",
          "on-scroll-down": "brightnessctl -c backlight set 1%-",
          "on-scroll-up": "brightnessctl -c backlight set +1%"
     },
@@ -204,11 +204,6 @@
         "tooltip": false
     },
 
-    "custom/launcher": {
-        "format":" ",
-        "on-click": "exec wofi -c ~/.config/wofi/config -I",
-        "tooltip": false,
-    },
 
     "custom/power": {
         "format":"⏻",
