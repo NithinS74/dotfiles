@@ -36,7 +36,7 @@ exec swayidle -w\
 # resumed. It will also lock your screen before your computer goes to sleep.
 
 ## Lock Screen
-    bindsym $mod+f1 exec ~/.config/sway/scripts/lockman.sh
+    bindsym $mod+u exec ~/.config/sway/scripts/lockman.sh
 
 ### Key bindings
 #

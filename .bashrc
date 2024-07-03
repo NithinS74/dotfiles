@@ -1,4 +1,5 @@
 eval "$(starship init bash)"
+export QT_QPA_PLATFORM=wayland
 set -o vi
 export LANG=en_US.UTF-8
 export EDITOR="vim"
