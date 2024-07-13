@@ -25,6 +25,7 @@ set $menu wofi -c ~/.config/wofi/config -I
 
 set $powermenu ~/.config/waybar/scripts/power-menu.sh
 
+
 ### Idle configuration
 exec swayidle -w\
     timeout 1070 'swaylock -f -C ~/.config/swaylock/config'\

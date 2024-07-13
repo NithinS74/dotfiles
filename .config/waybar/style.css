@@ -58,7 +58,7 @@ Arc-Dark Color Scheme
     background-color: @base1;
     font-weight: bold;
     font-family: UbuntuMono;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 /* Every modules */
@@ -163,7 +163,7 @@ Arc-Dark Color Scheme
 }
 
 #workspaces {
-    font-size: 10px;
+    font-size: 8px;
 }
 
 #workspaces button {
@@ -186,16 +186,16 @@ Arc-Dark Color Scheme
 #custom-power {
     margin-left: 12px;
     margin-right: 12px;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 #custom-launcher {
-    font-size: 12px;
+    font-size: 10px;
     margin-left: 12px;
     margin-right: 10px;
 }
 
 #backlight.icon {
     padding-right: 1px;
-    font-size: 10px;
+    font-size: 8px;
 }

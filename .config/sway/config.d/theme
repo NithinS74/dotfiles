@@ -1,21 +1,23 @@
 # Apply gtk theming
-exec_always ~/.config/sway/scripts/import-gsettings
+#exec_always ~/.config/sway/scripts/import-gsettings
 
 # Set inner/outer gaps
 gaps inner 0
 gaps outer 0
 
 # Hide titlebar on windows:
-#default_border pixel 1
+default_border pixel 0
 
 # Default Font
 font pango:Noto Sans Regular 10
 
 # Thin borders:
-smart_borders on
+smart_borders off
+default_border pixel 2
 
 # Set wallpaper:
-exec swaybg -i ~/Desktop/wallpaper/liked-wallpaper/wp2892013-anime-berserk-wallpaper.jpg
+#exec swaybg -i ~/Desktop/wallpaper/liked-wallpaper/wp2892013-anime-berserk-wallpaper.jpg
+exec_always swww-daemon --format xrgb
 
 # Title format for windows
 for_window [shell="xdg_shell"] title_format "%title (%app_id)"
@@ -36,3 +38,5 @@ client.background       #F8F8F2
 bar {
     swaybar_command waybar
 }
+
+

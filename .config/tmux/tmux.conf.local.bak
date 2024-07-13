@@ -17,7 +17,7 @@ tmux_conf_new_session_prompt=false
 #   - true
 #   - false (default)
 #   - disabled (do not modify new-session bindings)
-tmux_conf_new_session_retain_current_path=false
+tmux_conf_new_session_retain_current_path=true
 
 
 # -- windows & pane creation ---------------------------------------------------
@@ -26,7 +26,7 @@ tmux_conf_new_session_retain_current_path=false
 #   - true
 #   - false (default)
 #   - disabled (do not modify new-window bindings)
-tmux_conf_new_window_retain_current_path=false
+tmux_conf_new_window_retain_current_path=true
 
 # new window tries to reconnect ssh sessions, possible values are:
 #   - true
@@ -118,7 +118,7 @@ tmux_conf_theme_window_bg="default"
 # highlight focused pane, possible values are:
 #   - true
 #   - false (default)
-tmux_conf_theme_highlight_focused_pane=false
+tmux_conf_theme_highlight_focused_pane=true
 
 # focused pane colours:
 tmux_conf_theme_focused_pane_bg="$tmux_conf_theme_colour_2"
@@ -351,7 +351,7 @@ tmux_conf_theme_clock_style="24"
 #   - false (default)
 #   - disabled
 # on Linux, this requires xsel, xclip or wl-copy
-tmux_conf_copy_to_os_clipboard=false
+tmux_conf_copy_to_os_clipboard=true
 
 
 # -- user customizations -------------------------------------------------------
