@@ -38,5 +38,7 @@ client.background       #F8F8F2
 bar {
     swaybar_command waybar
 }
+bindsym $mod+o exec killall -SIGUSR1 waybar
+
 
 

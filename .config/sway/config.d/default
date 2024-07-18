@@ -210,17 +210,17 @@ bindsym $mod+r mode "resize"
 #
 # Backlight
 #
-    bindsym XF86MonBrightnessUp exec brightnessctl -c backlight set +5%
-    bindsym XF86MonBrightnessDown exec brightnessctl -c backlight set 5%-
+    bindsym XF86MonBrightnessUp exec light -A 5
+    bindsym XF86MonBrightnessDown exec light -U 5
 #
 # App shortcuts
 #
     bindsym $mod+n exec thunar
-    bindsym $mod+o exec brave
+    bindsym $mod+m exec brave
 #
 # Screenshots
 #
-    bindsym print exec /usr/share/sway-contrib/grimshot --notify save output
+    bindsym print exec grimshot --notify save output
     bindsym Shift+print exec ~/.config/sway/scripts/screenshot.sh
 #
 # Keybindings List

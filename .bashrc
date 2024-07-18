@@ -14,3 +14,4 @@ alias l="exa -F"
 alias ll="exa -laF"
 alias cat="bat"
 alias gcc="gcc -Wall -Wextra -Werror -O2 -std=c99 -pedantic"
+export XDG_DATA_DIRS=$XDG_DATA_DIRS:/usr/share:/var/lib/flatpak/exports/share:$HOME/.local/share/flatpak/exports/share

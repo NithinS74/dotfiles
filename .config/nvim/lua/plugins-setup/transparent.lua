@@ -8,7 +8,7 @@ return{
 				'Normal', 'NormalNC', 'Comment', 'Constant', 'Special', 'Identifier',
 				'Statement', 'PreProc', 'Type', 'FloatTitle','FloatFooter', 'Todo', 'String', 'Function',
 				'Conditional', 'Repeat', 'Operator', 'Structure', 'LineNr', 'NonText',
-				'SignColumn',  'StatusLine', 'StatusLineNC',
+				'SignColumn',  
 				'EndOfBuffer',
 			},
 			extra_groups = {}, -- table: additional groups that should be cleared
